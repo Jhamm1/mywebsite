@@ -6,7 +6,7 @@
 
 [![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](http://julianhamm.co.uk/CV.html)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](http://julianhamm.co.uk/CV.html)**
 
 ## Status
 
